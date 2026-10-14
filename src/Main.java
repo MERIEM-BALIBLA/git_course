@@ -7,5 +7,6 @@ public class Main {
         System.out.println("=== Calculatrice ===");
         System.out.println("5 + 3 = " + calc.additionner(5, 3));
         System.out.println("5 - 3 = " + calc.soustraire(5, 3));
+        System.out.println("6 / 3 = " + calc.diviser(6, 3));
     }
 }

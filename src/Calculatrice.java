@@ -7,4 +7,8 @@ public class Calculatrice {
     public int soustraire(int a, int b) {
         return a - b;
     }
+
+    public int diviser(int a, int b) {
+        return a / b;
+    }
 }
