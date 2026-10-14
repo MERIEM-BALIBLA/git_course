@@ -11,4 +11,8 @@ public class Calculatrice {
     public int multiplier(int a, int b) {
         return a * b;
     }
+
+    public int diviser(int a, int b) {
+        return a / b;
+    }
 }
